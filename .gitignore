@@ -1,3 +1,6 @@
+salida_configure.txt
+salida_autogen.txt
+salida_make.txt
 .libs
 .deps
 .libs
